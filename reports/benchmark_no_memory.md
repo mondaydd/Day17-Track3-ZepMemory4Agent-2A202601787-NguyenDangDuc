@@ -10,7 +10,7 @@
 
 | Case | Layer | Pass | Latency ms | Retrieved tokens | Token reduction | Missing / Error |
 | --- | --- | --- | ---: | ---: | ---: | --- |
-| E01 | short_term | PASS | 0.1 | 133 | 0.0% |  |
+| E01 | short_term | PASS | 0.0 | 133 | 0.0% |  |
 | E06 | semantic | FAIL | 0.0 | 0 | 100.0% | missing=Idempotency-Key, max-3-retries, exponential-backoff |
 | E09 | long_term | FAIL | 0.0 | 0 | 100.0% | missing=LOTUS-88, Java, Spring Boot |
 | E10 | short_term | PASS | 0.2 | 195 | 0.0% |  |

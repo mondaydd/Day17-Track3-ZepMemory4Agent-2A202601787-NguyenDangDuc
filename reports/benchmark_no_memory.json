@@ -18,7 +18,7 @@
       "passed": true,
       "missing": [],
       "forbidden_found": [],
-      "latency_ms": 0.1,
+      "latency_ms": 0.0,
       "retrieved_tokens": 133,
       "full_source_tokens": 115,
       "token_reduction": 0.0,
